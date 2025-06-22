@@ -26,13 +26,13 @@ It provides features like shipment listing, filtering by status, and detailed sh
 ```bash```
 git clone https://github.com/Kushkumar46/shipment-management.git
 2. Navigate to the project folder:
-```bash
+```bash```
 cd shipment-management
 3. Install dependencies:
-```bash
+```bash```
 npm install
 4.Run the development server
-```bash
+```bash```
 npm run dev
 5.Open your browser and visit
 http://localhost:3000
